@@ -134,14 +134,24 @@
  11. table - A table of values
 
  #### An Example Program
+ To give a stronger example of this program, I have also included a more useful example of code! In `Timer.rkt`, you will find a file to run a timer partially based on the pre-built timer example for `gui-easy`.[2] This timer works as follows:
+ - Starting initially at a duration of 10 seconds, the timer runs when the user clicks "Start"
+ - The timer will run until it hits the total duration or until the user clicks "Stop", in which is pauses
+ - The user may add to the duration using the "+5s", "+15s", and "+30s" buttons, or reset it to 10s using the "Reset" button
+ - If the user wants to reset the timer to 0, they can click "Start"
+
+ This program will look like the photo below:
+ ![Timer Image](Timer.png)
 
  ## 2. Why gui-easy?
+ As said above, it is very difficult to build a GUI, but a functional GUI can be absolutely vital to making a usable, effective program. Furthermore, working with Racket in particular is quite diffiult for users, with a desperate need for improvement. `gui-easy` makes it possible for users to build accessible GUIs to represent the information their programs generate, without making the workload so large that it becomes a burden on the user.
 
  ## 3. Overall experience?
-
+ Overall, `gui-easy` is a simple to use, accessible program. The official documentation is lacking in examples and details, but the examples in the official GitHub are plentiful and educational. Thus, overall, my experience with `gui-easy` has been overall positive, and gives promise to making a more accessible, functional Racket for future projects.
 
  ## References
  [1] Bogdan Popa, "gui-easy: Declarative GUIs", https://docs.racket-lang.org/gui-easy/index.html
+ [2] Timer Example, https://github.com/Bogdanp/racket-gui-easy/blob/master/examples/7GUI-4-timer.rkt
 
  ## License
  ```gui-easy is licensed under the 3-Clause BSD license.```
