@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/kCrKdl4V)
  # gui-easy
  ## A simple package for designing quick and easy GUIs in Racket.
  ## By Gaia Noseworthy
@@ -49,6 +48,8 @@
  1. `racket/math`
  2. `racket/date`
  3. `plot`
+
+ With this done, you are now ready to begin programming! To give a basic example of programming in `gui-easy`, please see "Sample Input/Output" below or view the Demo.rkt file!
 
  ## Purpose
  The purpose of the code in this repository will be two-fold, and two example files will be provided

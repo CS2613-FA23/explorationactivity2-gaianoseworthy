@@ -93,6 +93,7 @@
  ```
 
  So, with all of this effort, what do we get?
+
  ![Demo Image](Demo2.png)
 
  That lambda function, alongside multiple others, are operators in `gui-easy`. What these do is assign operators, which work as follows:
@@ -134,11 +135,9 @@
 
  #### An Example Program
 
+ ## 2. Why gui-easy?
 
- ## 2. What are the functionalities of gui-easy?
-
-
- ## 3. Why gui-easy?
+ ## 3. Overall experience?
 
 
  ## References
