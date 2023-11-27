@@ -141,6 +141,7 @@
  - If the user wants to reset the timer to 0, they can click "Start"
 
  This program will look like the photo below:
+ 
  ![Timer Image](Timer.png)
 
  ## 2. Why gui-easy?
