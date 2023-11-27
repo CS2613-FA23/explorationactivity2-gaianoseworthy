@@ -154,6 +154,7 @@
 
  ## References
  [1] Bogdan Popa, "gui-easy: Declarative GUIs", https://docs.racket-lang.org/gui-easy/index.html
+ 
  [2] Timer Example, https://github.com/Bogdanp/racket-gui-easy/blob/master/examples/7GUI-4-timer.rkt
 
  ## License
