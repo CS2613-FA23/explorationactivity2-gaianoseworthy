@@ -150,6 +150,8 @@
  ## 3. Overall experience?
  Overall, `gui-easy` is a simple to use, accessible program. The official documentation is lacking in examples and details, but the examples in the official GitHub are plentiful and educational. Thus, overall, my experience with `gui-easy` has been overall positive, and gives promise to making a more accessible, functional Racket for future projects.
 
+ Overall, I would strongly recommend this library to those wishing to learn how to build UIs in Racket, but who need more guidance or otherwise aren't ready to jump into the deep end. While it is very rare for me to program in Racket, should I need to build UIs in Racket further, I will use this.
+
  ## References
  [1] Bogdan Popa, "gui-easy: Declarative GUIs", https://docs.racket-lang.org/gui-easy/index.html
  [2] Timer Example, https://github.com/Bogdanp/racket-gui-easy/blob/master/examples/7GUI-4-timer.rkt
