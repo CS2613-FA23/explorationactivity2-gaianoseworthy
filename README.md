@@ -1,4 +1,4 @@
- # gui-easy
+ # gui-easy: Declarative GUIs
  ## A simple package for designing quick and easy GUIs in Racket.
  ## By Gaia Noseworthy
 
