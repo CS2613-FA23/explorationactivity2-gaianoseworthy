@@ -97,7 +97,6 @@
 
  ![Demo Image](Demo.png)
 
-
  ## References
  [1] Bogdan Popa, "gui-easy: Declarative GUIs", https://docs.racket-lang.org/gui-easy/index.html
 
